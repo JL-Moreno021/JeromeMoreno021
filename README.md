@@ -15,10 +15,10 @@
 **Information Systen Security Department**<br>
 _SSS Main Building, East Avenue, Diliman, Quezon City_<br>
 _Oct. 2025 - Dec. 2025_<br><br>
-    - `ITSM` ticketing and service request management<br>
-    - Ticket status and remarks tracking in spreadsheet<br>
-    - Perform `ETL` processes on data files<br>
-    - Support administrative tasks<br>
+>- `ITSM` ticketing and service request management<br>
+>- Ticket status and remarks tracking in spreadsheet<br>
+>- Perform `ETL` processes on data files<br>
+>- Support administrative tasks<br>
 
 >> ---
 
@@ -27,12 +27,13 @@ _Oct. 2025 - Dec. 2025_<br><br>
 **IT Operations**<br>
 _2/F Worldwide Corporate Center Shaw Boulevard, Mandaluyong City 1552, Metro Manila, Philippines_<br>
 _Mar. 2026 - Apr. 2026_<br><br>
-    - Manage endpoint systems including OS installation, application deployment, and system configuration<br>
-    - Utilized `BigFix` to perform system reimaging, OS reinstallation, and post-deployment configuration<br>
-    - Managed IT servie tickets using `BMC Helix ITSM`, providing timely issue resolution and documentation<br>
-    - Deploy, configured, and replaced desktops and peripheral devices<br>
-    - Assisted with IT asset lifecycle management, including inventory tracking, replacement, returns, and disposals<br>
-    - Perform system administrative tasks, including Active Directory account updates, computer object management, and endpoint configuration changes.<br>
+
+>- Manage endpoint systems including OS installation, application deployment, and system configuration<br>
+>- Utilized `BigFix` to perform system reimaging, OS reinstallation, and post-deployment configuration<br>
+>- Managed IT servie tickets using `BMC Helix ITSM`, providing timely issue resolution and documentation<br>
+>- Deploy, configured, and replaced desktops and peripheral devices<br>
+>- Assisted with IT asset lifecycle management, including inventory tracking, replacement, returns, and disposals<br>
+>- Perform system administrative tasks, including Active Directory account updates, computer object management, and endpoint configuration changes.<br>
 <br><br>
 
 ---
