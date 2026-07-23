@@ -50,6 +50,13 @@ _Mar. 02, 2026_
 >- [_Connect and Protect: Networks and Network Security_](https://www.coursera.org/account/accomplishments/verify/6QB3IDXP4831)<br>
 _Mar. 08, 2026_
 
+## Portfolio
+### Data Visualizaitons
+> [Highest Grossing Music Tours by Women](https://public.tableau.com/app/profile/jerome.moreno/viz/HighestGrossingMusicToursbyWomen/Dashboard1)<br>
+> [Project Repository](https://github.com/JL-Moreno021/Dirty-Dataset-to-practice-Data-Cleaning)
+**_Publisher_**: [Amrutha yenikonda](https://www.kaggle.com/amruthayenikonda)
+**_Dataset_**:[Dirty Dataset to practice Data Cleaning](https://www.kaggle.com/datasets/amruthayenikonda/dirty-dataset-to-practice-data-cleaning/data)
+
 ## Skills
 
 ### Programming Language
