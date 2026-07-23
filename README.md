@@ -3,6 +3,7 @@
 **Mobile No.:** +63 9244585404<br>
 **Email:** jlmoreno021@gmail.com<br>
 **LinkedIn:** [Jerome Moreno](www.linkedin.com/in/morenojerome)
+**Tableau:** [Jerome Moreno](https://public.tableau.com/app/profile/jerome.moreno/vizzes)
 
 ---
 
