@@ -41,11 +41,11 @@ _Mar. 2026 - Apr. 2026_
 - [**_Google Data Analytics Professional Certificate (v.3)_**](https://www.credly.com/badges/d2ae2b0d-a346-4967-b746-fff8f4abf355/linked_in_profile)<br>
 _Feb. 24, 2026_<br><br>
 - [**_Google Cybersecurity_**](https://www.coursera.org/professional-certificates/google-cybersecurity)<br>
-    1. [_Foundations of Cybersecurity_](https://www.coursera.org/account/accomplishments/verify/XU12RZ8UX8DM)<br>
+    - [_Foundations of Cybersecurity_](https://www.coursera.org/account/accomplishments/verify/XU12RZ8UX8DM)<br>
     _Feb. 27, 2026_
-    2. [_Play It Safe: Manage Security Risk_](https://www.coursera.org/account/accomplishments/verify/DC0M3AC4NMVW)<br>
+    - [_Play It Safe: Manage Security Risk_](https://www.coursera.org/account/accomplishments/verify/DC0M3AC4NMVW)<br>
     _Mar. 02, 2026_
-    3. [_Connect and Protect: Networks and Network Security_](https://www.coursera.org/account/accomplishments/verify/6QB3IDXP4831)<br>
+    - [_Connect and Protect: Networks and Network Security_](https://www.coursera.org/account/accomplishments/verify/6QB3IDXP4831)<br>
     _Mar. 08, 2026_
 
 ## Skills
