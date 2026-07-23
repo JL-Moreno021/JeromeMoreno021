@@ -14,11 +14,12 @@
 **SOCIAL SECURITY SYSTEM**<br>
 **Information Systen Security Department**<br>
 _SSS Main Building, East Avenue, Diliman, Quezon City_<br>
-_Oct. 2025 - Dec. 2025_<br><br>
->- `ITSM` ticketing and service request management<br>
->- Ticket status and remarks tracking in spreadsheet<br>
->- Perform `ETL` processes on data files<br>
->- Support administrative tasks<br>
+_Oct. 2025 - Dec. 2025_
+
+>- `ITSM` ticketing and service request management
+>- Ticket status and remarks tracking in spreadsheet
+>- Perform `ETL` processes on data files
+>- Support administrative tasks
 
 >> ---
 
