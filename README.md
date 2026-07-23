@@ -38,9 +38,9 @@ _Mar. 2026 - Apr. 2026_
 ---
 ## Certifications
 
-- [**_Google Data Analytics Professional Certificate (v.3)_**](https://www.credly.com/badges/d2ae2b0d-a346-4967-b746-fff8f4abf355/linked_in_profile)<br>
+### [**_Google Data Analytics Professional Certificate (v.3)_**](https://www.credly.com/badges/d2ae2b0d-a346-4967-b746-fff8f4abf355/linked_in_profile)<br>
 _Feb. 24, 2026_<br><br>
-- [**_Google Cybersecurity_**](https://www.coursera.org/professional-certificates/google-cybersecurity)<br>
+### [**_Google Cybersecurity_**](https://www.coursera.org/professional-certificates/google-cybersecurity)<br>
     - [_Foundations of Cybersecurity_](https://www.coursera.org/account/accomplishments/verify/XU12RZ8UX8DM)<br>
     _Feb. 27, 2026_
     - [_Play It Safe: Manage Security Risk_](https://www.coursera.org/account/accomplishments/verify/DC0M3AC4NMVW)<br>
