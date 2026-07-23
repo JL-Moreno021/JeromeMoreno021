@@ -47,3 +47,13 @@ _Feb. 24, 2026_<br><br>
     _Mar. 02, 2026_
     3. [_Connect and Protect: Networks and Network Security_](https://www.coursera.org/account/accomplishments/verify/6QB3IDXP4831)<br>
     _Mar. 08, 2026_
+
+## Skills
+
+### Programming Language
+    - Python, SQL
+
+### Systems and Tools
+    - Linux, Windows
+    - MS Office, Google Workspace
+    - Tableau, Git, Github
