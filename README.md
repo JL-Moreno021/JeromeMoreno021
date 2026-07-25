@@ -58,11 +58,6 @@ _Mar. 08, 2026_
 > **_Publisher:_** [Amrutha yenikonda](https://www.kaggle.com/amruthayenikonda)<br>
 > **_Dataset:_** [Dirty Dataset to practice Data Cleaning](https://www.kaggle.com/datasets/amruthayenikonda/dirty-dataset-to-practice-data-cleaning/data)
 
-#### [**_E-Commerce Customer Churn Audit](https://public.tableau.com/app/profile/jerome.moreno/viz/E-CommerceCustomerChurnAudit/E-CommerceCustomerChurnAudit)
-> **_Project Repository_**: [JL-Moreno021/E-Commerce-Customer-Churn-Audit](https://guthub.com/JL-Moreno021/E-Commerce-Customer-Churn-Audit)
-> **_Publisher:_** [Waddah Ali](https://www.kaggle.com/waddahali)
-> **_Dataset:_** [E-Commerce Customer Churn Audit](https://www.kaggle.com/datasets/waddahali/e-commerce-customer-churn-audit?select=customer+churn.csv)
-
 ## Skills
 
 ### Programming Language
