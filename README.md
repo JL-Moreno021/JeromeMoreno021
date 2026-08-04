@@ -55,13 +55,18 @@ _Mar. 08, 2026_
 ### Data Visualizations
 #### [**_Highest Grossing Music Tours by Women_**](https://public.tableau.com/app/profile/jerome.moreno/viz/HighestGrossingMusicToursbyWomen/Dashboard1)<br>
 > **_Project Repository_**: [JL-Moreno021/Dirty-Dataset-to-practice-Data-Cleaning](https://github.com/JL-Moreno021/Dirty-Dataset-to-practice-Data-Cleaning)<br>
-> **_Publisher:_** [Amrutha yenikonda](https://www.kaggle.com/amruthayenikonda)<br>
+> **_Dataset Publisher:_** [Amrutha yenikonda](https://www.kaggle.com/amruthayenikonda)<br>
 > **_Dataset:_** [Dirty Dataset to practice Data Cleaning](https://www.kaggle.com/datasets/amruthayenikonda/dirty-dataset-to-practice-data-cleaning/data)
 
 #### [**_E-Commerce Customer Churn Audit_**](https://public.tableau.com/app/profile/jerome.moreno/viz/E-CommerceCustomerChurnAudit/E-CommerceCustomerChurnAudit)<br>
 > **_Project Repository_**: [JL-Moreno021/E-Commerce-Customer-Churn-Audit](https://guthub.com/JL-Moreno021/E-Commerce-Customer-Churn-Audit)<br>
-> **_Publisher:_** [Waddah Ali](https://www.kaggle.com/waddahali)<br>
+> **_Dataset Publisher:_** [Waddah Ali](https://www.kaggle.com/waddahali)<br>
 > **_Dataset:_** [E-Commerce Customer Churn Audit](https://www.kaggle.com/datasets/waddahali/e-commerce-customer-churn-audit?select=customer+churn.csv)
+
+#### [**_Cafe Sales_**](https://public.tableau.com/app/profile/jerome.moreno/viz/Cafe_17858133819860/CafeSalesDashboard)
+> **_Project Repository_**: [JL-Moreno021/Cafe_Sales](https://github.com/JL-Moreno021/Cafe_Sales)<br>
+> **_Dataset Publisher:_** [Ahmed Mohamed](https://www.kaggle.com/ahmedmohamed2003)<br>
+> **_Dataset:_**: [Cafe Sales - Dirty Data for Cleaning Training](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
 
 ## Skills
 
