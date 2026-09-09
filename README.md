@@ -3,16 +3,15 @@
 **Mobile No.:** +63 9244585404<br>
 **Email:** jlmoreno021@gmail.com<br>
 **LinkedIn:** [Jerome Moreno](www.linkedin.com/in/morenojerome)<br>
-**Tableau:** [Jerome Moreno](https://public.tableau.com/app/profile/jerome.moreno/vizzes)
+**Tableau:** [Jerome Moreno](https://public.tableau.com/app/profile/jerome.moreno/vizzes)<br>
+**Github:** [JL-Moreno021](https://github.com/JL-Moreno021)
 
 ---
 
 ## Internships
-
 >>---
 
-### Intern
-**SOCIAL SECURITY SYSTEM**<br>
+### **SOCIAL SECURITY SYSTEM**
 **Information Systen Security Department**<br>
 _SSS Main Building, East Avenue, Diliman, Quezon City_<br>
 _Oct. 2025 - Dec. 2025_
@@ -24,8 +23,7 @@ _Oct. 2025 - Dec. 2025_
 
 >> ---
 
-### Intern
-**Concentrix PH**<br>
+### **Concentrix PH**
 **IT Operations**<br>
 _2/F Worldwide Corporate Center Shaw Boulevard, Mandaluyong City 1552, Metro Manila, Philippines_<br>
 _Mar. 2026 - Apr. 2026_
@@ -40,8 +38,18 @@ _Mar. 2026 - Apr. 2026_
 ---
 ## Certifications
 
-### [**_Google Data Analytics Professional Certificate (v.3)_**](https://www.credly.com/badges/d2ae2b0d-a346-4967-b746-fff8f4abf355/linked_in_profile)<br>
-_Feb. 24, 2026_<br><br>
+### [**_Google Data Analytics Professional Certificate (v.3)_**](https://www.credly.com/badges/d2ae2b0d-a346-4967-b746-fff8f4abf355/linked_in_profile)
+**Completion:**
+_Feb. 24, 2026_<br>
+
+### [**_Google Advanced Data Analytics Professional Certificate_**](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
+>- [**_Foundations of Data Science_**](https://coursera.org/share/774c3a93dcffbc2c6378a1a1b727ec71)<br>
+_Aug. 11, 2026_
+>- [**_Go Beyond the Numbers: Transalte Data into Insights_**](https://coursera.org/share/5ba2d3f8b09f4ba8d51097faeea98c76)<br>
+_Aug. 25, 2026_
+>- [**_The Power of Statistics_**]()<br>
+_Present Course_
+
 ### [**_Google Cybersecurity_**](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 >- [_Foundations of Cybersecurity_](https://www.coursera.org/account/accomplishments/verify/XU12RZ8UX8DM)<br>
