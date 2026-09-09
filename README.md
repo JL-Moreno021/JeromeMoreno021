@@ -7,7 +7,7 @@
 
 ---
 
-## Work Experience
+## Internships
 
 >>---
 
