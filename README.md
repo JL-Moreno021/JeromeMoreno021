@@ -41,12 +41,12 @@ _Mar. 2026 - Apr. 2026_
 ### [**_Google Data Analytics Professional Certificate (v.3)_**](https://www.credly.com/badges/d2ae2b0d-a346-4967-b746-fff8f4abf355/linked_in_profile)
 **Completion:**
 _Feb. 24, 2026_<br>
-<img src="google_analytics_1.png" width="10%" alt="Google Data Analytics Professional Certificate">
+<img src="badges/google_analytics_1.png" width="10%" alt="Google Data Analytics Professional Certificate">
 
 ### [**_Google Advanced Data Analytics Professional Certificate_**](https://www.credly.com/badges/56970c3a-db35-4dd8-93d3-d711a42793bd/public_url)
 **Completion:**
 _Oct. 20, 2026_<br>
-<img src="google_advanced_analytics_2.png", width="10%", alt="Google Advanced Data Analytics Professional Certificate">
+<img src="badges/google_advanced_analytics_2.png" width="10%" alt="Google Advanced Data Analytics Professional Certificate">
 
 ### [**_Google Cybersecurity_**](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
@@ -74,12 +74,37 @@ _Mar. 08, 2026_
 > **_Dataset Publisher:_** [Ahmed Mohamed](https://www.kaggle.com/ahmedmohamed2003)<br>
 > **_Dataset:_**: [Cafe Sales - Dirty Data for Cleaning Training](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
 
+### Machine Learning
+#### [**_Predictive Workforce Analytics: An XGBoost Model for Employee Attrition Identification_**](https://github.com/JL-Moreno021/GoogleAdvancedDataAnalyticsCapstone)
+    A google advanced data analytics capstone project
+    A strategic initiative commissioned by Salifort Motors HR to identify turnover drivers and enhance employee satisfaction.
+**_Dataset Publisher:_** [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)<br>
+**_Dataset:_** [Faisal Qureshi](https://www.kaggle.com/mfaisalqureshi)
+
 ## Skills
 
-### Programming Language
-    - Python, SQL
+### Language
+    - Python, SQL, Markdown
 
-### Systems and Tools
-    - Linux, Windows
-    - MS Office, Google Workspace
-    - Tableau, Git, Github
+### Tools
+    - MS Office
+    - Google Workplace
+    - Tableau
+    - Git
+    - Github
+    - Visual Studio Code
+
+### Data Manipulation & Analysis
+    - Pandas
+    - Numpy
+    - SciPy
+
+### Data Visualization
+    - Matplotlib
+    - Seaborn
+    - Plotly
+
+### Machine Learning & Modeling
+    - Scikit-Learn
+    - XGBoost
+    - Statsmodels
