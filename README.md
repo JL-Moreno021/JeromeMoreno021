@@ -41,14 +41,12 @@ _Mar. 2026 - Apr. 2026_
 ### [**_Google Data Analytics Professional Certificate (v.3)_**](https://www.credly.com/badges/d2ae2b0d-a346-4967-b746-fff8f4abf355/linked_in_profile)
 **Completion:**
 _Feb. 24, 2026_<br>
+<img src="google_analytics_1.png" width="10%" alt="Google Data Analytics Professional Certificate">
 
-### [**_Google Advanced Data Analytics Professional Certificate_**](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
->- [**_Foundations of Data Science_**](https://coursera.org/share/774c3a93dcffbc2c6378a1a1b727ec71)<br>
-_Aug. 11, 2026_
->- [**_Go Beyond the Numbers: Transalte Data into Insights_**](https://coursera.org/share/5ba2d3f8b09f4ba8d51097faeea98c76)<br>
-_Aug. 25, 2026_
->- [**_The Power of Statistics_**]()<br>
-_Present Course_
+### [**_Google Advanced Data Analytics Professional Certificate_**](https://www.credly.com/badges/56970c3a-db35-4dd8-93d3-d711a42793bd/public_url)
+**Completion:**
+_Oct. 20, 2026_<br>
+<img src="google_advanced_analytics_2.png", width="10%", alt="Google Advanced Data Analytics Professional Certificate">
 
 ### [**_Google Cybersecurity_**](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
