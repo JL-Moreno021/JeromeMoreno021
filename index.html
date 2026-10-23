@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jerome Lucas Moreno – Data Analytics &amp; IT Operations</title>
+<meta name="description" content="Resume of Jerome Lucas Moreno: data analytics, machine learning, and IT operations.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📊</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#f6f8fb; --surface:#ffffff; --ink:#18212f; --muted:#556275;
+  --line:#d9e0ea; --grid:#e6ebf2; --accent:#1a5fd0; --accent-soft:#e3edfc;
+  --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --body:"Instrument Sans","Segoe UI",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --paper:#101722; --surface:#172131; --ink:#e8edf5; --muted:#9aa8bc;
+    --line:#2a374b; --grid:#172131; --accent:#7aa8ff; --accent-soft:#1d2d4a;
+  }
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0; font-family:var(--body); font-size:1rem; line-height:1.6;
+  color:var(--ink); background-color:var(--paper);
+  background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
+  background-size:28px 28px;
+}
+a{color:var(--accent); text-underline-offset:3px}
+a:focus-visible{outline:2px solid var(--accent); outline-offset:3px; border-radius:2px}
+.page{
+  max-width:1080px; margin:0 auto; padding:56px 24px 72px;
+  display:grid; grid-template-columns:280px 1fr; gap:56px; align-items:start;
+}
+aside{position:sticky; top:40px}
+h1{
+  font-family:var(--display); font-weight:700; font-size:clamp(2.6rem,6vw,3.4rem);
+  line-height:.98; letter-spacing:-.03em; margin:0 0 14px;
+}
+.role{margin:0 0 28px; color:var(--muted); font-size:1.02rem}
+.contact{list-style:none; margin:0 0 32px; padding:0; display:grid; gap:8px; font-size:.95rem}
+.contact span{display:block; font-size:.82rem; color:var(--muted)}
+.contact a{word-break:break-word}
+.skills h2{margin-bottom:12px}
+.skills dl{margin:0}
+.skills dt{font-weight:600; font-size:.9rem; margin-top:14px}
+.skills dd{margin:4px 0 0; color:var(--muted); font-size:.93rem}
+main section{margin-bottom:52px}
+h2{
+  font-family:var(--display); font-size:1.5rem; font-weight:700; letter-spacing:-.015em;
+  margin:0 0 20px; padding-bottom:10px; border-bottom:2px solid var(--ink);
+}
+aside h2{font-size:1.15rem}
+h3{font-family:var(--display); font-size:1.2rem; font-weight:500; margin:0}
+.entry{background:var(--surface); border:1px solid var(--line); border-left:4px solid var(--accent); padding:22px 24px; margin-bottom:18px}
+.entry header{display:flex; justify-content:space-between; gap:16px; flex-wrap:wrap; align-items:baseline}
+.when{color:var(--muted); font-size:.92rem; white-space:nowrap}
+.dept{margin:2px 0 0; font-weight:500}
+.where{margin:0 0 12px; color:var(--muted); font-size:.9rem}
+.entry ul{margin:12px 0 0; padding-left:1.1rem}
+.entry li{margin-bottom:6px}
+code{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:.85em;
+  background:var(--accent-soft); color:var(--accent); padding:1px 6px; border-radius:3px;
+}
+.badges{display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:18px; margin-bottom:18px}
+.badge{background:var(--surface); border:1px solid var(--line); padding:20px; display:flex; gap:18px; align-items:center}
+.badge img{width:104px; height:104px; flex:none; object-fit:contain}
+.badge h3{font-size:1.05rem; line-height:1.25; margin-bottom:6px}
+.badge p{margin:0; font-size:.9rem; color:var(--muted)}
+.course-list{list-style:none; margin:0; padding:0}
+.course-list li{display:flex; justify-content:space-between; gap:16px; padding:10px 0; border-bottom:1px solid var(--line)}
+.course-list li:last-child{border-bottom:0}
+.course-list time{color:var(--muted); font-size:.92rem; white-space:nowrap}
+.sub{font-family:var(--display); font-size:1.05rem; font-weight:500; color:var(--muted); margin:0 0 14px}
+.project{background:var(--surface); border:1px solid var(--line); padding:18px 22px; margin-bottom:14px}
+.project h4{margin:0 0 8px; font-family:var(--display); font-size:1.1rem; font-weight:500}
+.project p{margin:0 0 8px}
+.project dl{margin:0; display:grid; grid-template-columns:max-content 1fr; gap:4px 14px; font-size:.92rem}
+.project dt{color:var(--muted)}
+.project dd{margin:0; word-break:break-word}
+.ml-title{font-size:1.1rem}
+footer{color:var(--muted); font-size:.85rem; padding-top:8px}
+@media (max-width:820px){
+  .page{grid-template-columns:1fr; gap:36px; padding-top:36px}
+  aside{position:static}
+}
+@media (max-width:480px){
+  .badge{flex-direction:column; align-items:flex-start}
+  .course-list li{flex-direction:column; gap:0}
+  .project dl{grid-template-columns:1fr; gap:0}
+  .project dd{margin-bottom:8px}
+}
+@media print{
+  body{background:#fff; color:#000}
+  .page{padding:0; grid-template-columns:240px 1fr}
+  aside{position:static}
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <aside>
+    <h1>Jerome Lucas Moreno</h1>
+    <p class="role">Data analytics, machine learning, and IT operations</p>
+
+    <ul class="contact">
+      <li><span>Mobile</span><a href="tel:+639244585404">+63 924 458 5404</a></li>
+      <li><span>Email</span><a href="mailto:jlmoreno021@gmail.com">jlmoreno021@gmail.com</a></li>
+      <li><span>LinkedIn</span><a href="https://www.linkedin.com/in/morenojerome">Jerome Moreno</a></li>
+      <li><span>Tableau</span><a href="https://public.tableau.com/app/profile/jerome.moreno/vizzes">Jerome Moreno</a></li>
+      <li><span>GitHub</span><a href="https://github.com/JL-Moreno021">JL-Moreno021</a></li>
+    </ul>
+
+    <div class="skills">
+      <h2>Skills</h2>
+      <dl>
+        <dt>Languages</dt><dd>Python, SQL, Markdown</dd>
+        <dt>Tools</dt><dd>MS Office, Google Workspace, Tableau, Git, GitHub, Visual Studio Code</dd>
+        <dt>Data manipulation &amp; analysis</dt><dd>Pandas, NumPy, SciPy</dd>
+        <dt>Data visualization</dt><dd>Matplotlib, Seaborn, Plotly</dd>
+        <dt>Machine learning &amp; modeling</dt><dd>Scikit-Learn, XGBoost, Statsmodels</dd>
+      </dl>
+    </div>
+  </aside>
+
+  <main>
+    <section id="internships">
+      <h2>Internships</h2>
+
+      <article class="entry">
+        <header>
+          <h3>Concentrix PH</h3>
+          <span class="when">Mar. 2026 – Apr. 2026</span>
+        </header>
+        <p class="dept">IT Operations</p>
+        <p class="where">2/F Worldwide Corporate Center, Shaw Boulevard, Mandaluyong City 1552, Metro Manila, Philippines</p>
+        <ul>
+          <li>Managed endpoint systems, including OS installation, application deployment, and system configuration.</li>
+          <li>Used <code>BigFix</code> for system reimaging, OS reinstallation, and post-deployment configuration.</li>
+          <li>Managed IT service tickets in <code>BMC Helix ITSM</code>, providing timely issue resolution and documentation.</li>
+          <li>Deployed, configured, and replaced desktops and peripheral devices.</li>
+          <li>Assisted with IT asset lifecycle management: inventory tracking, replacement, returns, and disposals.</li>
+          <li>Performed system administrative tasks, including Active Directory account updates, computer object management, and endpoint configuration changes.</li>
+        </ul>
+      </article>
+
+      <article class="entry">
+        <header>
+          <h3>Social Security System</h3>
+          <span class="when">Oct. 2025 – Dec. 2025</span>
+        </header>
+        <p class="dept">Information System Security Department</p>
+        <p class="where">SSS Main Building, East Avenue, Diliman, Quezon City</p>
+        <ul>
+          <li><code>ITSM</code> ticketing and service request management.</li>
+          <li>Tracked ticket status and remarks in a spreadsheet.</li>
+          <li>Performed <code>ETL</code> processes on data files.</li>
+          <li>Supported administrative tasks.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section id="certifications">
+      <h2>Certifications</h2>
+
+      <div class="badges">
+        <article class="badge">
+          <img src="badges/google_advanced_analytics_2.png" alt="Google Advanced Data Analytics Certificate badge" width="104" height="104">
+          <div>
+            <h3><a href="https://www.credly.com/badges/56970c3a-db35-4dd8-93d3-d711a42793bd/public_url">Google Advanced Data Analytics Professional Certificate</a></h3>
+            <p>Completed <time datetime="2026-10-20">Oct. 20, 2026</time></p>
+          </div>
+        </article>
+
+        <article class="badge">
+          <img src="badges/google_analytics_1.png" alt="Google Data Analytics Certificate badge" width="104" height="104">
+          <div>
+            <h3><a href="https://www.credly.com/badges/d2ae2b0d-a346-4967-b746-fff8f4abf355/linked_in_profile">Google Data Analytics Professional Certificate (v.3)</a></h3>
+            <p>Completed <time datetime="2026-02-24">Feb. 24, 2026</time></p>
+          </div>
+        </article>
+      </div>
+
+      <article class="project">
+        <h4><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity</a></h4>
+        <ul class="course-list">
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/XU12RZ8UX8DM">Foundations of Cybersecurity</a><time datetime="2026-02-27">Feb. 27, 2026</time></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/DC0M3AC4NMVW">Play It Safe: Manage Security Risk</a><time datetime="2026-03-02">Mar. 2, 2026</time></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/6QB3IDXP4831">Connect and Protect: Networks and Network Security</a><time datetime="2026-03-08">Mar. 8, 2026</time></li>
+        </ul>
+      </article>
+    </section>
+
+    <section id="portfolio">
+      <h2>Portfolio</h2>
+
+      <p class="sub">Data visualizations</p>
+
+      <article class="project">
+        <h4><a href="https://public.tableau.com/app/profile/jerome.moreno/viz/HighestGrossingMusicToursbyWomen/Dashboard1">Highest Grossing Music Tours by Women</a></h4>
+        <dl>
+          <dt>Repository</dt><dd><a href="https://github.com/JL-Moreno021/Dirty-Dataset-to-practice-Data-Cleaning">JL-Moreno021/Dirty-Dataset-to-practice-Data-Cleaning</a></dd>
+          <dt>Publisher</dt><dd><a href="https://www.kaggle.com/amruthayenikonda">Amrutha Yenikonda</a></dd>
+          <dt>Dataset</dt><dd><a href="https://www.kaggle.com/datasets/amruthayenikonda/dirty-dataset-to-practice-data-cleaning/data">Dirty Dataset to practice Data Cleaning</a></dd>
+        </dl>
+      </article>
+
+      <article class="project">
+        <h4><a href="https://public.tableau.com/app/profile/jerome.moreno/viz/E-CommerceCustomerChurnAudit/E-CommerceCustomerChurnAudit">E-Commerce Customer Churn Audit</a></h4>
+        <dl>
+          <dt>Repository</dt><dd><a href="https://github.com/JL-Moreno021/E-Commerce-Customer-Churn-Audit">JL-Moreno021/E-Commerce-Customer-Churn-Audit</a></dd>
+          <dt>Publisher</dt><dd><a href="https://www.kaggle.com/waddahali">Waddah Ali</a></dd>
+          <dt>Dataset</dt><dd><a href="https://www.kaggle.com/datasets/waddahali/e-commerce-customer-churn-audit?select=customer+churn.csv">E-Commerce Customer Churn Audit</a></dd>
+        </dl>
+      </article>
+
+      <article class="project">
+        <h4><a href="https://public.tableau.com/app/profile/jerome.moreno/viz/Cafe_17858133819860/CafeSalesDashboard">Cafe Sales</a></h4>
+        <dl>
+          <dt>Repository</dt><dd><a href="https://github.com/JL-Moreno021/Cafe_Sales">JL-Moreno021/Cafe_Sales</a></dd>
+          <dt>Publisher</dt><dd><a href="https://www.kaggle.com/ahmedmohamed2003">Ahmed Mohamed</a></dd>
+          <dt>Dataset</dt><dd><a href="https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training">Cafe Sales – Dirty Data for Cleaning Training</a></dd>
+        </dl>
+      </article>
+
+      <p class="sub">Machine learning</p>
+
+      <article class="project">
+        <h4><a href="https://github.com/JL-Moreno021/GoogleAdvancedDataAnalyticsCapstone">Predictive Workforce Analytics: An XGBoost Model for Employee Attrition Identification</a></h4>
+        <p>Google Advanced Data Analytics capstone project. A strategic initiative commissioned by Salifort Motors HR to identify turnover drivers and enhance employee satisfaction.</p>
+        <dl>
+          <dt>Publisher</dt><dd><a href="https://www.kaggle.com/mfaisalqureshi">Faisal Qureshi</a></dd>
+          <dt>Dataset</dt><dd><a href="https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv">HR Analytics Job Prediction</a></dd>
+        </dl>
+      </article>
+    </section>
+
+    <footer>Jerome Lucas Moreno</footer>
+  </main>
+
+</div>
+</body>
+</html>
