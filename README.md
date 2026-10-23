@@ -4,7 +4,7 @@
 **Email:** jlmoreno021@gmail.com<br>
 **LinkedIn:** [Jerome Moreno](www.linkedin.com/in/morenojerome)<br>
 **Tableau:** [Jerome Moreno](https://public.tableau.com/app/profile/jerome.moreno/vizzes)<br>
-**Github:** [JL-Moreno021](https://github.com/JL-Moreno021)
+**Online Resume:** [Jerome-Moreno021](https://jl-moreno021.github.io/JeromeMoreno021/)
 
 ---
 
