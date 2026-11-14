@@ -4,7 +4,7 @@
 **Email:** jlmoreno021@gmail.com<br>
 **LinkedIn:** [Jerome Moreno](www.linkedin.com/in/morenojerome)<br>
 **Tableau:** [Jerome Moreno](https://public.tableau.com/app/profile/jerome.moreno/vizzes)<br>
-**GitHub:** [JL-Moreno021](https://github.com/JL-Moreno021)
+**GitHub:** [JL-Moreno021](https://github.com/JL-Moreno021)<br>
 **Online Resume:** [Jerome-Moreno021](https://jl-moreno021.github.io/JeromeMoreno021/)
 
 ---
@@ -79,8 +79,14 @@ _Mar. 08, 2026_
 #### [**_Predictive Workforce Analytics: An XGBoost Model for Employee Attrition Identification_**](https://github.com/JL-Moreno021/GoogleAdvancedDataAnalyticsCapstone)
     A google advanced data analytics capstone project
     A strategic initiative commissioned by Salifort Motors HR to identify turnover drivers and enhance employee satisfaction.
-**_Dataset Publisher:_** [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)<br>
-**_Dataset:_** [Faisal Qureshi](https://www.kaggle.com/mfaisalqureshi)
+**_Dataset:_** [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)<br>
+**_Publisher:_** [Faisal Qureshi](https://www.kaggle.com/mfaisalqureshi)
+
+#### [**_E-Commerce Customer Churn Audit: Behavioral Drivers, Revenue Loss, and Risk Scoring_**](https://github.com/JL-Moreno021/Customer-Churn-Audit)
+    An analysis of inactivity, support calls, spend, and subscription plan, with a logistic regression model to rank customers by churn risk
+
+**_Dataset:_** [E-Commerce Customer Churn Audit](https://www.kaggle.com/datasets/waddahali/e-commerce-customer-churn-audit?select=customer+churn.csv)<br>
+**_Publisher:_** [Waddah Ali](https://www.kaggle.com/waddahali)
 
 ## Skills
 
