@@ -79,11 +79,21 @@ _Mar. 08, 2026_
 #### [**_Predictive Workforce Analytics: An XGBoost Model for Employee Attrition Identification_**](https://github.com/JL-Moreno021/GoogleAdvancedDataAnalyticsCapstone)
     A google advanced data analytics capstone project
     A strategic initiative commissioned by Salifort Motors HR to identify turnover drivers and enhance employee satisfaction.
+
+-	Built and validated an XGBoost model to predict employee attrition, helping HR proactively identify at-risk staff and lower recruitment costs.
+-	Identified 4 primary turnover drivers (work hours, evaluation score, tenure, project load) and isolated 3 distinct churn personas through cluster analysis.
+-	Delivered strategic HR recommendations—such as capping monthly work hours and restructuring evaluation criteria toward quality over hours logged—to enhance retention among mid-to-senior staff.
+
 **_Dataset:_** [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)<br>
 **_Publisher:_** [Faisal Qureshi](https://www.kaggle.com/mfaisalqureshi)
 
 #### [**_E-Commerce Customer Churn Audit: Behavioral Drivers, Revenue Loss, and Risk Scoring_**](https://github.com/JL-Moreno021/Customer-Churn-Audit)
-    An analysis of inactivity, support calls, spend, and subscription plan, with a logistic regression model to rank customers by churn risk
+    A google advanced data analytics portfolio project
+    An analysis of inactivity, support calls, spend, and subscription plan, with a logistic regression model to rank customers by churn risk.
+
+-	Built and validated a logistic regression model that ranks customers by churn risk (test ROC AUC 0.72 vs. 0.50 for a flag-everyone baseline), helping a retention team decide which customers to contact first.
+-	Identified inactivity, support calls, and spend as the main churn signals (churn rises from 59% to 92% across inactivity groups and from 65% to 95% across support-call counts) and found demographics to be only weakly related to churn.
+-	Quantified revenue lost to churn by plan, with Plus accounting for 39% of monthly losses despite the lowest churn rate, and recommended prioritizing retention outreach by risk score and on high-value plans.
 
 **_Dataset:_** [E-Commerce Customer Churn Audit](https://www.kaggle.com/datasets/waddahali/e-commerce-customer-churn-audit?select=customer+churn.csv)<br>
 **_Publisher:_** [Waddah Ali](https://www.kaggle.com/waddahali)
