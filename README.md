@@ -95,6 +95,12 @@ _Mar. 08, 2026_
 -	Identified inactivity, support calls, and spend as the main churn signals (churn rises from 59% to 92% across inactivity groups and from 65% to 95% across support-call counts) and found demographics to be only weakly related to churn.
 -	Quantified revenue lost to churn by plan, with Plus accounting for 39% of monthly losses despite the lowest churn rate, and recommended prioritizing retention outreach by risk score and on high-value plans.
 
+**_Visualizations_**
+[**_Excel:_**](https://github.com/JL-Moreno021/Customer-Churn-Audit/tree/main/Excel_Dashboard) Built an interactive Excel churn dashboard (PivotTables, slicers, GETPIVOTDATA) on 10,300 customers, surfacing a 76% churn rate and $523K in lost revenue. Compared churn and revenue loss by subscription plan and region to identify the highest-risk customer segments.
+
+[**_Tableau:_**](https://public.tableau.com/app/profile/jerome.moreno/viz/CustomerChurnAnalysisRevenuePlansInactivityandSupport/CustomerChurnAnalysisRevenuePlansInactivityandSupport) Built a Tableau churn dashboard for 10,300 customers, quantifying $523K in monthly revenue loss and showing that churn rises with inactivity (60% to 91%) and customer service calls, to guide retention strategy.
+
+
 **_Dataset:_** [E-Commerce Customer Churn Audit](https://www.kaggle.com/datasets/waddahali/e-commerce-customer-churn-audit?select=customer+churn.csv)<br>
 **_Publisher:_** [Waddah Ali](https://www.kaggle.com/waddahali)
 
